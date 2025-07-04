@@ -49,3 +49,18 @@ trainer = Trainer(
 
 # Start fine-tuning
 trainer.train()
+
+from transformers import get_scheduler
+
+# Use Learning Rate Scheduling
+lr_scheduler = get_scheduler(
+    name="linear", optimizer=trainer.optimizer, num_warmup_steps=500, num_training_steps=10000
+)
+
+from transformers import EarlyStoppingCallback
+
+# Implement Early Stopping
+trainer.add_callback(EarlyStoppingCallback(early_stopping_patience=2))
+
+# Regularization Techniques
+training_args.weight_decay = 0.01  # Applies L2 regularization
