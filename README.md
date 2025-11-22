@@ -24,8 +24,12 @@ By the end of this book, you will be able to confidently design, implement, and 
 
 ## How to buy the book
 
-● [Amazon](https://www.amazon.in/Ultimate-Transformer-Models-Using-PyTorch/dp/9349888505)
-● [Ava Orange](https://orangeava.com/products/ultimate-transformer-models-using-pytorch-2-0?srsltid=AfmBOoplQMB8YAkBeYmfAltmR86wJWzp616beiXB_Lh62Qh8DFt9PREI)
+- [Amazon USA](https://www.amazon.com/Ultimate-Transformer-Models-Using-PyTorch/dp/9349888505)
+- [Amazon Global](https://www.amazon.com/Ultimate-Transformer-Models-Using-PyTorch/dp/9349888505)
+- [Amazon India](https://www.amazon.in/Ultimate-Transformer-Models-Using-PyTorch/dp/9349888505)
+- [Ava Orange](https://orangeava.com/products/ultimate-transformer-models-using-pytorch-2-0?srsltid=AfmBOoplQMB8YAkBeYmfAltmR86wJWzp616beiXB_Lh62Qh8DFt9PREI)
+- [Kindle Version](https://www.amazon.com/Ultimate-Transformer-Models-Using-PyTorch/dp/9349888505)
+- [Paperback version](https://www.amazon.com/Ultimate-Transformer-Models-Using-PyTorch/dp/9349888505)
 
 
 
